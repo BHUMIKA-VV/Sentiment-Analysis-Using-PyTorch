@@ -1,0 +1,1 @@
+A comprehensive suite of tutorials for understanding and implementing sequence classification models in PyTorch. This repository walks you through the evolution of sentiment analysis—from basic bag-of-words models to state-of-the-art Transformers.
